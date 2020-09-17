@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetTest</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_tool">Cái gì đó</string>
+    <string name="title_notifications">Cài đặt</string>
+</resources>
